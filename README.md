@@ -1,6 +1,6 @@
 # split-multigbks
 
-Split a collection of multi-gbk files to individual files. Works on Python 3.6+
+Split a collection of multi-gbk files to individual files. Requires Python 3.6+
 
 **Run Command**
 ```sh
